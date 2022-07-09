@@ -12,7 +12,8 @@
 2. 用SSH客户端连接上VPS，输入以下命令（若不是root用户请先`sudo -i`提权）
 
 ```shell
-wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/MisakaLinuxToolbox/master/MisakaToolbox.sh && bash MisakaToolbox.sh
+# wget -N --no-check-certificate https://raw.githubusercontents.com/Misaka-blog/MisakaLinuxToolbox/master/MisakaToolbox.sh && bash MisakaToolbox.sh
+wget -N --no-check-certificate https://raw.githubusercontents.com/tpe28/MisakaLinuxToolbox/master/MisakaToolbox.sh && bash MisakaToolbox.sh
 ```
 
 第一次运行以后，可用快捷方式启动
@@ -149,16 +150,19 @@ DD系统：https://www.cxthhhhh.com/network-reinstall-system-modify
 点击页面上方的Sponsor按钮，赞助我们！  
 你的赞助会帮助工具箱变得更完善！
 
-## 交流群
-[Telegram](https://t.me/misakanetcn)
+## ~~交流群~~ 墓碑
+
+~~[Telegram] (https://t.me/misakanetcn)~~  
+
+[Telegram Channel](https://t.me/misakano)
 
 ## 防和谐备份仓库
 
-GitHub：https://github.com/Misaka-blog/MisakaLinuxToolbox/
+GitHub：~~https://github.com/Misaka-blog/MisakaLinuxToolbox/~~ *已失效*
 
-GitLab：https://gitlab.com/misakano7545/MisakaLinuxToolbox
+GitLab：~~https://gitlab.com/misakano7545/MisakaLinuxToolbox~~ *已失效*
 
-BitBucket：https://bitbucket.org/misakano7545/misakalinuxtoolbox/
+BitBucket：~~https://bitbucket.org/misakano7545/misakalinuxtoolbox/~~ *已失效*
 ## Stars 增长记录
 
 [![Stargazers over time](https://starchart.cc/Misaka-blog/MisakaLinuxToolbox.svg)](https://starchart.cc/Misaka-blog/MisakaLinuxToolbox)
